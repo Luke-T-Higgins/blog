@@ -4,5 +4,5 @@
 
 layout: Post
 permalink: /
-title: Blog
+title: L. T. Higgins
 ---
