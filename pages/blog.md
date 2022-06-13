@@ -1,10 +1,9 @@
 ---
 layout: Post
-permalink: /
+permalink: /blog.html
 title: L. T. Higgins
 ---
 
-<<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
