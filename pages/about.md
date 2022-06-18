@@ -1,6 +1,6 @@
 ---
 layout: Post
-permalink: /blog.html
+permalink: /about.html
 title: L. T. Higgins
 ---
 
