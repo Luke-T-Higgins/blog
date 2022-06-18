@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/test.md",
+            "file": "_posts/About.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/test.md",
+                "file": "_posts/About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "9182160c29036650",
   "lastOpenFiles": [
+    "_posts/About.md",
     "_posts/test.md",
     "_posts/2020-03-01-features.md",
-    "_posts/About.md",
     "pages/notes.md",
     "pages/lists.md",
     "pages/index.md",
