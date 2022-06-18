@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "bb0b6ea9ce5eb97c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9182160c29036650",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/About.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70cfefd39221217f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cf9b67fe357642d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f9bce6dde4fbbad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6fc1b6a9006a787",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6af7d63e900f1ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a111eb6f37fb463",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e325fdb576b482b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/About.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9182160c29036650",
+  "lastOpenFiles": [
+    "_posts/About.md",
+    "_posts/2020-03-01-how-to.md",
+    "_notes/Public/Credits.md",
+    "_notes/Public/Welcome to the garden.md",
+    "_notes/Public/Hidden Note.md",
+    "_notes/Public/Markdown Rendered.md"
+  ]
+}
