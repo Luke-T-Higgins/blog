@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/About.md",
+            "file": "_posts/test.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/About.md",
+                "file": "_posts/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "9182160c29036650",
   "lastOpenFiles": [
+    "_posts/test.md",
+    "_posts/2020-03-01-features.md",
     "_posts/About.md",
     "pages/notes.md",
     "pages/lists.md",
@@ -96,8 +98,6 @@
     "pages/about.md",
     "_posts/2020-03-01-how-to.md",
     "_notes/Public/Credits.md",
-    "_notes/Public/Welcome to the garden.md",
-    "_notes/Public/Hidden Note.md",
-    "_notes/Public/Markdown Rendered.md"
+    "_notes/Public/Welcome to the garden.md"
   ]
 }
