@@ -1,6 +1,5 @@
 ---
 layout: Post
-permalink: /about.html
 title: About
 ---
 
