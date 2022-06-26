@@ -7,8 +7,12 @@
         "id": "9182160c29036650",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-03-15-Euler-Characteristic.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2022-03-15-Euler-Characteristic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,11 +89,11 @@
   },
   "active": "9182160c29036650",
   "lastOpenFiles": [
-    "_posts/About.md",
     "_posts/2022-03-15-Euler-Characteristic.md",
+    "_posts/2020-03-01-features.md",
+    "_posts/About.md",
     "_posts/Euler Characteristic.md",
     "_posts/test.md",
-    "_posts/2020-03-01-features.md",
     "pages/notes.md",
     "pages/lists.md",
     "pages/index.md",

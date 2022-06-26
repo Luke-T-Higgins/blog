@@ -1,3 +1,8 @@
+---
+layout: post
+title: "The Euler Characteristic"
+---
+
 To show that two topological spaces are not homeomorphic we make use of _topological invariants_: a number or an attribute of a space which remains constant under continuous deformation. If the two spaces disagree on this invariant, they cannot be homeomorphic.
 
 This post aims at introducing the Euler characteristic, a topological invariant, in a few different contexts. The first section of this post will introduce the Euler characteristic for graphs, the second for [simplicial complexes](https://lukethiggins.com/2022/02/16/surfaces-and-simplicial-complexes), and the third for [closed surfaces](https://lukethiggins.com/2022/02/16/surfaces-and-simplicial-complexes).
