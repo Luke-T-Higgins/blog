@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: "/Euler"
+permalink: "Euler"
 title: "The Euler Characteristic"
 ---
 
