@@ -1,5 +1,4 @@
 ---
-layout: post
 permalink: "Euler"
 title: "The Euler Characteristic"
 ---
